@@ -470,6 +470,12 @@
   description: Chain words around the sides of a square, never using two letters from the same side in a row.
   tags: [nyt]
 
+- name: NYNR
+  url: https://nynr.day/
+  category: word-grids
+  platform: web
+  description: Build your own board and find words with a Lock-screen pattern.
+
 - name: Scores
   url: https://scores.lol/
   category: word-grids
@@ -1228,6 +1234,12 @@
   category: video-games
   platform: web
   description: The Immaculate Grid format applied to the National Pokédex.
+
+- name: Seekade
+  url: https://seekade.com/
+  category: video-games
+  platform: web
+  description: Word search featuring a new video game theme every day.
 
 - name: Smashdle
   url: https://smashdle.net/
