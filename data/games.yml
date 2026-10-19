@@ -474,7 +474,7 @@
   url: https://nynr.day/
   category: word-grids
   platform: web
-  description: Build your own board and find words with a Lock-screen pattern.
+  description: Trace words across a letter grid by swiping lock-screen-style patterns.
 
 - name: Scores
   url: https://scores.lol/
