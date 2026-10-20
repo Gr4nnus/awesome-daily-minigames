@@ -611,6 +611,12 @@
   platform: web
   description: Delete numbers from a grid until every row and column adds up to its target.
 
+- name: Think in Odds
+  url: https://thinkinodds.com/
+  category: numbers-math
+  platform: web
+  description: Answer a daily probability question, using optional hints and a worked explanation to explore the reasoning.
+
 # ----------------------------------------------------------------------- logic
 - name: Pips
   url: https://www.nytimes.com/games/pips
@@ -1748,9 +1754,3 @@
   category: hubs
   platform: web
   description: Free crosswords, Keyword, Wridges and the daily news quiz.
-
-- name: Think in Odds
-  url: https://thinkinodds.com/
-  category: numbers-math
-  platform: web
-  description: Answer a daily probability question, using optional hints and a worked explanation to explore the reasoning.

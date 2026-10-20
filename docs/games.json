@@ -1,7 +1,7 @@
 {
   "generated": "run `npm run build` to regenerate — do not edit by hand",
   "counts": {
-    "games": 278,
+    "games": 279,
     "categories": 18,
     "reddit": 20
   },
@@ -1017,6 +1017,15 @@
       "category": "numbers-math",
       "platform": "web",
       "description": "Delete numbers from a grid until every row and column adds up to its target.",
+      "tags": []
+    },
+    {
+      "id": "think-in-odds",
+      "name": "Think in Odds",
+      "url": "https://thinkinodds.com/",
+      "category": "numbers-math",
+      "platform": "web",
+      "description": "Answer a daily probability question, using optional hints and a worked explanation to explore the reasoning.",
       "tags": []
     },
     {
