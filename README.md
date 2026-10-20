@@ -2,7 +2,7 @@
 
 > A curated list of games that give you one puzzle a day and then politely ask you to come back tomorrow.
 
-Wordle proved something small: a puzzle everybody gets exactly one of, at the same time, with a spoiler-free way to brag about it. Hundreds of games have been built on that shape since — some brilliant, most forgettable. This list is the curated cut: **276 games across 18 categories**, including **20 that you play inside a Reddit post** without ever leaving the app.
+Wordle proved something small: a puzzle everybody gets exactly one of, at the same time, with a spoiler-free way to brag about it. Hundreds of games have been built on that shape since — some brilliant, most forgettable. This list is the curated cut: **278 games across 18 categories**, including **20 that you play inside a Reddit post** without ever leaving the app.
 
 Every entry is free to start playing, resets on a daily cadence, and is short enough to finish before your coffee goes cold.
 
@@ -137,6 +137,7 @@ Missing something, or found one that has gone dark? Adding an entry is a five-li
 - [Jumble Daily](https://fun.chicagotribune.com/game/tca-jumble-daily/) - The newspaper anagram classic, still running daily and still ending in a groan-worthy pun.
 - [Jumblie](https://jumblie.com/) - Untangle four themed words from a shared pool of letter tiles.
 - [Letter Boxed](https://www.nytimes.com/puzzles/letter-boxed) - Chain words around the sides of a square, never using two letters from the same side in a row.
+- [NYNR](https://nynr.day/) - Trace words across a letter grid by swiping lock-screen-style patterns.
 - [Scores](https://scores.lol/) - Score words by their Scrabble-style letter values, chasing the highest total on a board that resets once a day.
 - [Scrimp](https://playscrimp.com/) - You are given the clued words, not asked to guess them, and must pack them into a row too short to spell them out.
 - [Spelltower](https://www.puzzmo.com/play/spelltower) - Word-finding meets falling blocks — clearing long words collapses the tower.
@@ -298,6 +299,7 @@ Missing something, or found one that has gone dark? Adding an entry is a five-li
 - [Minecraftle](https://minecraftle.zachmanson.com/) - Wordle played on a crafting table — reach the target item through valid recipes.
 - [Pokedle](https://pokedle.net/) - Guess the Pokémon from type, generation, habitat and stat comparisons.
 - [Pokedoku](https://pokedoku.com/) - The Immaculate Grid format applied to the National Pokédex.
+- [Seekade](https://seekade.com/) - Word search featuring a new video game theme every day.
 - [Smashdle](https://smashdle.net/) - Super Smash Bros. character, move and stage guessing modes.
 - [Squirdle](https://squirdle.fireblend.com/daily.html) - The original Pokémon Wordle, with higher-or-lower feedback on height, weight and generation.
 - [Stardewdle](https://www.stardewdle.com/) - A Stardew Valley daily covering villagers, items and seasons.

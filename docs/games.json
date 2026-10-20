@@ -1,7 +1,7 @@
 {
   "generated": "run `npm run build` to regenerate — do not edit by hand",
   "counts": {
-    "games": 276,
+    "games": 278,
     "categories": 18,
     "reddit": 20
   },
@@ -807,6 +807,15 @@
       "tags": [
         "nyt"
       ]
+    },
+    {
+      "id": "nynr",
+      "name": "NYNR",
+      "url": "https://nynr.day/",
+      "category": "word-grids",
+      "platform": "web",
+      "description": "Trace words across a letter grid by swiping lock-screen-style patterns.",
+      "tags": []
     },
     {
       "id": "scores",
@@ -1946,6 +1955,15 @@
       "category": "video-games",
       "platform": "web",
       "description": "The Immaculate Grid format applied to the National Pokédex.",
+      "tags": []
+    },
+    {
+      "id": "seekade",
+      "name": "Seekade",
+      "url": "https://seekade.com/",
+      "category": "video-games",
+      "platform": "web",
+      "description": "Word search featuring a new video game theme every day.",
       "tags": []
     },
     {
