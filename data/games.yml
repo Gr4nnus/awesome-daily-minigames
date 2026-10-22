@@ -13,7 +13,6 @@
 # Entries are sorted by category (in categories.yml order), then A-Z by name.
 # `npm run sort` will do that for you.
 
-
 # --------------------------------------------------------------- word-guessing
 - name: Wordle
   url: https://www.nytimes.com/games/wordle/index.html
