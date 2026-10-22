@@ -1,7 +1,7 @@
 {
   "generated": "run `npm run build` to regenerate — do not edit by hand",
   "counts": {
-    "games": 279,
+    "games": 281,
     "categories": 18,
     "reddit": 20
   },
@@ -2039,6 +2039,15 @@
       "tags": []
     },
     {
+      "id": "floored",
+      "name": "Floored",
+      "url": "https://playfloored.com/",
+      "category": "trivia",
+      "platform": "web",
+      "description": "Five ranked lists a day, each with a target rank; guess any item to see its rank and work higher or lower until you land on it.",
+      "tags": []
+    },
+    {
       "id": "foodguessr",
       "name": "FoodGuessr",
       "url": "https://www.foodguessr.com/",
@@ -2584,6 +2593,15 @@
       "tags": [
         "paywalled"
       ]
+    },
+    {
+      "id": "brainilab-daily",
+      "name": "BrainiLab Daily",
+      "url": "https://brainilabgames.com/daily-quiz/",
+      "category": "hubs",
+      "platform": "web",
+      "description": "One shared main game a day that rotates between a mixed-knowledge quiz, a word game and a number puzzle, plus an optional extra.",
+      "tags": []
     },
     {
       "id": "britannica-games",

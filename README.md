@@ -2,7 +2,7 @@
 
 > A curated list of games that give you one puzzle a day and then politely ask you to come back tomorrow.
 
-Wordle proved something small: a puzzle everybody gets exactly one of, at the same time, with a spoiler-free way to brag about it. Hundreds of games have been built on that shape since — some brilliant, most forgettable. This list is the curated cut: **279 games across 18 categories**, including **20 that you play inside a Reddit post** without ever leaving the app.
+Wordle proved something small: a puzzle everybody gets exactly one of, at the same time, with a spoiler-free way to brag about it. Hundreds of games have been built on that shape since — some brilliant, most forgettable. This list is the curated cut: **281 games across 18 categories**, including **20 that you play inside a Reddit post** without ever leaving the app.
 
 Every entry is free to start playing, resets on a daily cadence, and is short enough to finish before your coffee goes cold.
 
@@ -313,6 +313,7 @@ Missing something, or found one that has gone dark? Adding an entry is a five-li
 - [FoodieGame](https://www.foodiegame.org/) - Test your tastebuds! Discover world cuisines and pinpoint where every dish comes from.
 - [Daily Dozen Trivia](https://dailydozentrivia.com/) - Twelve questions a day across a fixed set of categories, with a streak to protect.
 - [Factle](https://frontofficesports.com/trivia/factle) - Guess the entries in a real top-five list, ranked in the right order.
+- [Floored](https://playfloored.com/) - Five ranked lists a day, each with a target rank; guess any item to see its rank and work higher or lower until you land on it.
 - [FoodGuessr](https://www.foodguessr.com/) - Name the country a dish comes from, three plates a day.
 - [Google Feud](https://googlefeud.com/) - Complete the search query the way the rest of the internet did.
 - [Jeopardy! J6](https://www.jeopardy.com/play/j6) - Six official Jeopardy! clues a day, in ascending difficulty.
@@ -397,6 +398,7 @@ Missing something, or found one that has gone dark? Adding an entry is a five-li
 > Publishers and collections that ship several fresh puzzles every day.
 
 - 💰 [Puzzmo](https://www.puzzmo.com/) - A dozen well-crafted dailies with genuinely good design; several are free, the rest are subscriber-only.
+- [BrainiLab Daily](https://brainilabgames.com/daily-quiz/) - One shared main game a day that rotates between a mixed-knowledge quiz, a word game and a number puzzle, plus an optional extra.
 - [Britannica Games](https://www.britannica.com/games) - Revealed, Tightrope, Octordle and a rotating set of knowledge dailies.
 - [Coffee First Games](https://coffeefirst.games/) - A small indie studio shipping several short, polished dailies.
 - 🟠 [DailyWordSnacks](https://www.reddit.com/r/DailyWordSnacks/) - A rotating collection of small word games posted daily to Reddit.
